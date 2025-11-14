@@ -1,4 +1,5 @@
 # ESPHome Ferraris Meter
+20251114sb - forked from jensrossbach/esphome-ferraris-meter
 > [!NOTE]
 > This is the German version, for the English version, scroll down or click [here](#esphome-ferraris-meter-english).
 
